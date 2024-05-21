@@ -7,23 +7,14 @@
 
 
 <!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 
 <!--Intro start-->
-- I’m currently working with Spring Boot, Spring WebFlux, MongoDB, Redis, MongoDB, and DigitalOcean
-
-- I’m currently learning to put together backend applications on the Cloud and managing deployments
-
-- I have an interest in Cloud Computing, so I am learning AWS and working on certifications
-
+- 🔭 I’m currently working on my [rivenbot project](https://github.com/dvillavicencio/riven-bot)
+- ☁️ I’m currently learning to put together backend applications using Docker, GitHub Actions, and the Cloud
+- 💬 Ask me about backend development!
 - Feel free to reach me out **daniel.villavicencio.mena@gmail.com**
 <!--Intro end-->
-
-
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -44,6 +35,9 @@
   </td>
 </tr>
 </table>
-<!--- stats (end) -->
-</p>        
-<!--- stats (end) -->
+</p>  
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
