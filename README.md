@@ -1,5 +1,5 @@
 <div id="user-content-toc">
-  <ul align="left">
+  <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Daniel</h1></summary>
   </ul>
 </div>
