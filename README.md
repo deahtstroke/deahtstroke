@@ -1,24 +1,15 @@
-<!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Hi 👋, I'm Daniel</h2></summary>
+  <ul align="left">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Daniel</h1></summary>
   </ul>
 </div>
 
-
-<!--- snake -->
-
-
-<!--Intro start-->
 - 🔭 I’m currently working on my [rivenbot project](https://github.com/dvillavicencio/riven-bot)
 - ☁️ I’m currently learning to put together backend applications using Docker, GitHub Actions, and the Cloud
 - 💬 Ask me about backend development!
 - Feel free to reach me out **daniel.villavicencio.mena@gmail.com**
-<!--Intro end-->
-
-<!--- stats & Trophy (start) -->
+- 
 <p align="center">
-  <!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
