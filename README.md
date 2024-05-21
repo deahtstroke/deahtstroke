@@ -8,7 +8,7 @@
 - ☁️ I’m currently learning to put together backend applications using Docker, GitHub Actions, and the Cloud
 - 💬 Ask me about backend development!
 - Feel free to reach me out **daniel.villavicencio.mena@gmail.com**
-- 
+
 <p align="center">
 <table align="center">
 <tr border="none">
