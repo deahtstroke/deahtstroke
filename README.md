@@ -5,9 +5,10 @@
 </div>
 
 - 🔭 I’m currently working on my [rivenbot project](https://github.com/dvillavicencio/riven-bot)
-- 🗨️ I'm currently learning how to write Go!
+- 🗨️ I'm currently learning how to write Go
+- 🕷️ I'm currently learning a Web Crawler program in Go
 - ☁️ I’m currently learning to put together backend applications using Docker, GitHub Actions, and the Cloud
-- 💬 Ask me about backend development!
+- 💬 Ask me about backend development.
 - Feel free to reach me out **dvm3099@gmail.com**
 
 <p align="center">
