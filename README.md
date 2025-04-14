@@ -8,8 +8,7 @@
 - 🗨️ I'm currently learning how to write Go
 - 🕷️ I'm currently learning a Web Crawler program in Go
 - ☁️ I’m currently learning to put together backend applications using Docker, GitHub Actions, and the Cloud
-- 💬 Ask me about backend development.
-- Feel free to reach me out **dvm3099@gmail.com**
+- 💬 Ask me about backend development
 
 <p align="center">
 <table align="center">
