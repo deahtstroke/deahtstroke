@@ -4,7 +4,9 @@
   </ul>
 </div>
 
-- I’m currently putting together micro services using Go, Docker Swarm, PostgreSQL and RabbitMQ for my [RivenBot Project](https://github.com/dvillavicencio/riven-bot)
+- Putting together micro services using Go, Docker Swarm, PostgreSQL and RabbitMQ for my [RivenBot Project](https://github.com/dvillavicencio/riven-bot)
 - I love to talk about backend development and new amazing technologies
+- Learning about Lua and [Neovim](https://github.com/neovim)
+- Curently writing my own Neovim plugin [dap-profiler.nvim](https://github.com/deahtstroke/dap-profiler.nvim)!
 - Also looking for new opportunities around Software Development
-- On the side I love contributing to Open Source
+- Love exploring and contributing to Open Source
