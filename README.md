@@ -21,11 +21,6 @@
 ## Connect
 I’m currently open to software engineering opportunities. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/danielvillamena/) or email at dvm3099@pm.me.
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deahtstroke&layout=normal&hide=jupyter%20notebook&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=deahtstroke&show_icons=true&count_private=true&theme=tokyonight" />
-</div>
-
 [![AWS Certified](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Certified-brightgreen)](#)
 [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](#)
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
