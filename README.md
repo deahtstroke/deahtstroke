@@ -1,10 +1,10 @@
 <div id="user-content-toc">
-    <h1 style="display: inline-block">Hello there, I'm Daniel👋</h1>
+    <h1 style="display: inline-block">Hello there, I'm Daniel🐳</h1>
 </div>
 
 ## What I'm up to these days
-- Building **microservices** with Go, Docker Swarm, PostgreSQL, and RabbitMQ for my [RivenBot Project](https://github.com/Riven-of-a-Thousand-Servers)
-- Developing a **Neovim plugin**: [dap-profiler.nvim](https://github.com/deahtstroke/dap-profiler.nvim)
+- Building **Protheon** with Go, Lua and BubbleTea!
+- Developing a **Neovim plugin** for dap profiles: [dap-profiler.nvim](https://github.com/deahtstroke/dap-profiler.nvim)
 - Exploring **Lua, reactive programming stacks, and DevOps tooling**
 - Contributing to **open-source projects** and experimenting with cloud deployments
 - Actively seeking new opportunities in **Software Engineering**
@@ -19,11 +19,5 @@
 - Experimenting with Lua, Go, and reactive programming stacks
 
 ## Connect
-I’m currently open to software engineering opportunities. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/danielvillamena/) or email at dvm3099@pm.me.
+I’m currently open to software engineering opportunities. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/danielvillamena/) or email me at dvm3099@pm.me.
 
-[![AWS Certified](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Certified-brightgreen)](#)
-[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](#)
-[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](#)
