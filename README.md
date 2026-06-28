@@ -5,7 +5,6 @@
 ## What I'm up to these days
 - Building **Protheon** with Go, Lua and BubbleTea!
 - Working on my own [toml-ast](https://www.github.com/deahstroke/toml-ast) library to parse TOML files.
-- Developing a **Neovim plugin** for dap profiles: [dap-profiler.nvim](https://github.com/deahtstroke/dap-profiler.nvim)
 - Exploring **Lua, reactive programming stacks, and DevOps tooling**
 - Contributing to **open-source projects** and experimenting with cloud deployments
 - Actively seeking new opportunities in **Software Engineering**
