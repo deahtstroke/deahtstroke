@@ -3,7 +3,7 @@
 </div>
 
 ## What I'm up to these days
-- Building **Protheon** with Go, Lua and BubbleTea!
+- Building [Protheon](https://www.github.com/deahtstroke/protheon) with Go, Lua and BubbleTea!
 - Working on my own [toml-ast](https://www.github.com/deahstroke/toml-ast) library to parse TOML files.
 - Exploring **Lua, reactive programming stacks, and DevOps tooling**
 - Contributing to **open-source projects** and experimenting with cloud deployments
