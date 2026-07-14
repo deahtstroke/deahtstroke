@@ -3,7 +3,7 @@
 </div>
 
 ## What I'm up to these days
-- Building [Rivenbot(https://www.github.com/Riven-of-a-Thousand-Servers) with Go and Docker
+- Building [Rivenbot](https://www.github.com/Riven-of-a-Thousand-Servers) with Go and Docker
 - Working on my own [toml-ast](https://www.github.com/deahstroke/toml-ast) library to parse TOML files.
 - Exploring **Lua, reactive programming stacks, and DevOps tooling**
 - Contributing to **open-source projects** and experimenting with cloud deployments
