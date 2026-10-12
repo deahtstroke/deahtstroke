@@ -11,7 +11,7 @@
 ## Skills
 - **Languages I actively use:** Go, Java, Lua, C#
 - **Tools I love:** Docker, Docker Swarm, RabbitMQ, Grafana, PostgreSQL
-- **Topics I am interested in:** Microservices, Distributed Systems, DevOps, Open Source
+- **Topics I am interested in:** TUIs, ETL Pipelines, Distributed Systems, DevOps, Networking, Open Source
 
 ## Certifications & Learning
 - AWS Cloud Practitioner Certification
